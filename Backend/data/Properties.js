@@ -14,7 +14,6 @@ const properties = [
       description: "A sleek and modern apartment in downtown New York.",
       image: "/images/apartment1.jpg",
     },
-    // Add more properties as needed
   ];
   
   module.exports = properties;
